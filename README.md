@@ -1,0 +1,2 @@
+# API-RESTful-Gerenciador-de-Contatos-Python-Django-
+API construida em Python/Django para gerenciar uma lista de contatos. O objetivo desse projeto é fazer um API RESTfull usando o Django, que permita visualizar uma lista de contatos, alem de criar, remover e atualizar as informações do contato. O projeto foi desenvolvido numa metodologia orientada a teste e o módulo de testes do django (TestCase) foi a ferramenta escolhida para os testes automatizados.
