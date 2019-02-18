@@ -28,5 +28,16 @@ Também pode ser interresante acessar individualmente algum contato. A imagem a 
 
 ![Seleção arbitrária de contatos](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao%203.png)
 
+Além disso é possível criar novos contatos (POST), atualizar contatos já existentes (PUT) e apagar contatos obsoletos (DELETE). Para exemplificar isso temos o arquivo de testes automáticos:
+
+
+![Seleção arbitrária de contatos](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao%204.png)
+
+Nele é possível ver todos os tipos de requisições sendo feitas. Alem disso, os testes automáticos foram utilizados nesse projeto tanto como ferramento da metodologia de desenvolvimento, como para garantir a manutenção de todas as funcionalidades ao longo do desenvolvimento:
+
+![Seleção arbitrária de contatos](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao%205.png)
+
+
+
 
 
