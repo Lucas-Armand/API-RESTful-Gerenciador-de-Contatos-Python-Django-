@@ -7,14 +7,17 @@ Essa aplicação usando o Conda como ambiente e utiliza as bibliotecas do Django
 
 Para rodar o programa basta baixar os arquivos do projeto e, na pasta dos arquivos, rodar:
 
-´´´
+```
 python manage.py runserver
-´´´
+
+```
 
 Desa maneira a aplicação estará disponivel e você podera acessa-la através do local host http://127.0.0.1:8000/.
 
 ## Funcionalidades
 
+Assim que acessamos a aplicação pelo brownser podemos ver:
 
+[Tela inicial](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao1.png)
 
 
