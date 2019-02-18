@@ -7,9 +7,9 @@ Essa aplicação usando o Conda como ambiente e utiliza as bibliotecas do Django
 
 Para rodar o programa basta baixar os arquivos do projeto e, na pasta dos arquivos, rodar:
 
-'''
+´´´
 python manage.py runserver
-'''
+´´´
 
 Desa maneira a aplicação estará disponivel e você podera acessa-la através do local host http://127.0.0.1:8000/.
 
