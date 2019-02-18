@@ -20,4 +20,13 @@ Assim que acessamos a aplicação pelo brownser podemos ver:
 
 ![Tela inicial](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao1.png)
 
+Nessa exibição é possível ver os dados json dos dez primeiros contatos da lista de contatos. É possível perceber, na barra de url, que a aplicação redirecionou o acesso para introduzir os filtros de busca de resultados. Na imagem a seguir podemos ver que alterando os valores passador pelo requerimento é possível ter uma seleção arbitraria de contatos sequencias:
+
+![Seleção arbitrária de contatos](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao%202.png)
+
+Também pode ser interresante acessar individualmente algum contato. A imagem a seguir apresenta o exemplo do acesso do contato número um, mas qualquer contato pode ser acessado por sua posição no banco de dados:
+
+![Seleção arbitrária de contatos](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao%203.png)
+
+
 
