@@ -18,6 +18,6 @@ Desa maneira a aplicação estará disponivel e você podera acessa-la através 
 
 Assim que acessamos a aplicação pelo brownser podemos ver:
 
-[Tela inicial](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao1.png)
+![Tela inicial](https://github.com/Lucas-Armand/API-RESTful-Gerenciador-de-Contatos-Python-Django-/blob/master/img/tela%20aplicacao1.png)
 
 
